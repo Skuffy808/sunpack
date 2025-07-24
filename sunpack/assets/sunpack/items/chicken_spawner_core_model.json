@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "sunpack:item/chicken_spawner_core"
+    }
+}

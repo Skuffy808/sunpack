@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "sunpack:item/creeper_spawner_core"
+    }
+}

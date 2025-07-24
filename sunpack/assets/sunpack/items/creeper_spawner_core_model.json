@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "sunpack:item/creeper_spawner_core"
+    }
+}

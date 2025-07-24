@@ -1,0 +1,135 @@
+{
+  "providers": [
+    {
+      "type":"bitmap","file":"sunpack:font/splitter.png","ascent":-9999,"height":-2,"chars":["󀀀"]},{"type":"space","advances":{"󏿰":-8}
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/member.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue001"],
+      "widths": [50]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/vip.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue002"],
+      "widths": [27]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/vip_plus.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue003"],
+      "widths": [34]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/mvp.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue004"],
+      "widths": [29]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/mvp_plus.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue005"],
+      "widths": [36]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/ranks/elite.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue006"],
+      "widths": [41]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/chat_mod.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue007"],
+      "widths": [57]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/helper.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue008"],
+      "widths": [50]
+    },
+    
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/mod.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue009"],
+      "widths": [29]
+    },
+    
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/sr_mod.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue00a"],
+      "widths": [43]
+    },
+    
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/admin.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue00b"],
+      "widths": [41]
+    },
+    
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/manager.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue00c"],
+      "widths": [57]
+    },
+    
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/staff/owner.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue00d"],
+      "widths": [43]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/perks-menu.png",
+      "ascent": 22,
+      "height": 141,
+      "chars": ["\ue00e"],
+      "widths": [176]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/kits-menu.png",
+      "ascent": 22,
+      "height": 231,
+      "chars": ["\ue00f"],
+      "widths": [176]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "sunpack:item/zombie_spawner_core"
+    }
+}
