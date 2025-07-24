@@ -130,6 +130,136 @@
       "height": 231,
       "chars": ["\ue00f"],
       "widths": [176]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/cool.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue010"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/sob.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue011"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/gross.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue012"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/dead.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue012"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/meh.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue013"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/angry.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue014"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/love.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue015"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/blah.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue016"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/kiss.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue017"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/shocked.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue018"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/happy.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue019"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/skull.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue01a"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/smurk.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue01b"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/smile.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue01c"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/frown.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue01d"],
+      "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:emojis/eat.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue01e"],
+      "widths": [8]
     }
+    
   ]
 }
