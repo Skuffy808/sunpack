@@ -259,6 +259,14 @@
       "height": 8,
       "chars": ["\ue01e"],
       "widths": [8]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/scale-menu.png",
+      "ascent": 22,
+      "height": 141,
+      "chars": ["\ue01f"],
+      "widths": [176]
     }
     
   ]
