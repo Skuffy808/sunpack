@@ -267,6 +267,22 @@
       "height": 141,
       "chars": ["\ue01f"],
       "widths": [176]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/soundboard-menu.png",
+      "ascent": 22,
+      "height": 231,
+      "chars": ["\ue021"],
+      "widths": [176]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/gravity-menu.png",
+      "ascent": 22,
+      "height": 141,
+      "chars": ["\ue022"],
+      "widths": [176]
     }
     
   ]
