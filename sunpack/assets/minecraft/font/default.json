@@ -284,13 +284,53 @@
       "chars": ["\ue022"],
       "widths": [176]
     },
-        {
+    {
       "type": "bitmap",
       "file": "sunpack:prefixes/staff/qa_team.png",
       "ascent": 8,
       "height": 8,
       "chars": ["\ue023"],
       "widths": [50]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/misc/youtuber.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue024"],
+      "widths": [64]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/misc/streamer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue025"],
+      "widths": [64]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/misc/patron.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue026"],
+      "widths": [50]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:prefixes/misc/patron_plus.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\ue027"],
+      "widths": [57]
+    },
+    {
+      "type": "bitmap",
+      "file": "sunpack:gui/keystone-menu.png",
+      "ascent": 22,
+      "height": 141,
+      "chars": ["\ue028"],
+      "widths": [176]
     }
   ]
 }
